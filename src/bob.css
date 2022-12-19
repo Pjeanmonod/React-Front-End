@@ -1,0 +1,11 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    position: absolute;
+    left: 0px;
+    width: 300px;
+    padding: 10px;
+  }
