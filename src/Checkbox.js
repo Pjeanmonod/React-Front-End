@@ -9,8 +9,7 @@ export default function CheckBoxExample() {
 
   const [hasPromo, setHasPromo] = useState(false);
 
-  const onChangeCheckBox = (e) => {.3+
-    .ooop
+  const onChangeCheckBox = (e) => {
 
     setHasPromo(e.target.checked);
 

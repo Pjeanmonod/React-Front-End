@@ -9,3 +9,10 @@
     width: 300px;
     padding: 10px;
   }
+
+  .centre {
+    position: absolute;
+    left: 300px;
+    width: 300px;
+    padding: 10px;
+  }
